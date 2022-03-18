@@ -1,2 +1,2 @@
-var1=input("Entrez un entier")
-print("la moitié de cet entier est :", var1 )
+read -p ("Entrez un entier") var1
+echo("la moitié de cet entier est :", $var1 )
